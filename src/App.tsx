@@ -1,12 +1,15 @@
 import React from "react";
 import "./App.css";
+import Hero from "./components/hero";
 import Navbar from "./components/navbar";
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      //hero //introtext //heroine //villian
+
+      <Hero />
+      {/* //hero //introtext //heroine //villian */}
     </div>
   );
 }

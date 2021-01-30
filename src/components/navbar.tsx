@@ -16,6 +16,7 @@ const useStyles = makeStyles({
   navigation: {
     paddingLeft: 93,
     paddingRight: 63,
+    paddingTop: 15,
     color: "white",
     height: 48,
     display: "flex",
